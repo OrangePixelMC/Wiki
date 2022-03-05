@@ -15,7 +15,7 @@
 
 ## 进服指南
 
-....
+- [遵守规则](/pages/how-to-join/index.md)
 
 ## 游玩指南
 

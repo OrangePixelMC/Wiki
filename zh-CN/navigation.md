@@ -22,7 +22,10 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 
+[语言]()
 
+  * [简体中文](/zh-CN/)
+  * [English (United States)](/en-US/)
 
 
 <!-- A more complex navigation example: ----------------------------------------
