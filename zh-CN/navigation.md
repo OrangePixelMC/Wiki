@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# 橘子像素 指南
 
 
 <!--
@@ -21,6 +21,11 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+
+[语言]()
+
+  * [English (United States)](/en-US/)
+  * [简体中文](/zh-CN/)
 
 <!-- A more complex navigation example: ----------------------------------------
 
