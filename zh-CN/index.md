@@ -15,6 +15,8 @@
 
 ## 进服指南
 
+[Join Guide](/pages/join-guide.md)
+
 - [遵守规则](/pages/how-to-join/index.md)
 ### 如何加入服务器
 
