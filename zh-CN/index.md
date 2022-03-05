@@ -15,18 +15,16 @@
 
 ## 进服指南
 
-[Join Guide](pages/join-guide.md)
+### 遵守规则
+[遵守规则](/pages/join-guide/index.md)
 
-- [遵守规则](pages/how-to-join/index.md)
-### 如何加入服务器
+### Minecraft服务器地址信息
 
-#### 遵守服务器规则
+### 注册账号
 
-不同子服务器之间规则略有不同
+### 下载、安装、配置客户端
 
-不要使用作弊或禁止的模组
-
-warning! 无视这些内容导致账号被封禁，是您自己的责任
+### 手机游玩
 
 ## 游玩指南
 

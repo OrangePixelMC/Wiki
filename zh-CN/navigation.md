@@ -22,6 +22,19 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 
+[更新日志]()
+
+  * # 通用
+  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 2](pages/subitem2.md)
+  - - - -
+  * # 大厅
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # 经典生存
+  * [2022年](/pages/update-log/ybsur/2022/index.md)
+
+
 [语言]()
 
   * [简体中文](/zh-CN/)
