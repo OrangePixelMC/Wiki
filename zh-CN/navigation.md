@@ -22,10 +22,9 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 
-[ÓïÑÔ]()
 
-  * [¼òÌåÖĞÎÄ](/zh-CN/)
-  * [English (United States)](/en-US/)
+
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
