@@ -1,13 +1,20 @@
-# It works! ;-)
+# 橘子像素
 
 
-## Section 1
+## 公告
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+有关服务器运行时间的通知
+>
+即日起，服务器暂时不再24小时运行，每日午夜0点至2点期间择时关服，并进行备份作业。
+每天上午9点开服，每天晚上11点关服。
+以下服务会与服务器同步开启及关闭：官网、卫星地图、封禁查询、账号中心（皮肤站）、社区（论坛）。 关闭期间外置登录将无法登录。
+2021-10-12：由于社区已经迁移到新主机，因此增加该调整的影响
+2021-11-20：更新通知中关于开服时间的信息
+2021-12-24：调整内容，服务器运行时间已基本固定，自动化程序已优化
 
 
-## Section 2
+## 进服指南
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+## 游玩指南
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+## 规则
