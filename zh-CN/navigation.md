@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# 橘子像素 指南
+# 橘子像素指南
 
 
 <!--
@@ -24,9 +24,8 @@
 
 [语言]()
 
-  * [English (United States)](/en-US/)
   * [简体中文](/zh-CN/)
-
+  * [English (United States)](/en-US/)
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
