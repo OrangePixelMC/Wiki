@@ -41,6 +41,7 @@
   * [简体中文](/zh-CN/)
   * [English (United States)](/en-US/)
 
+[捐助](pages/donate.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
