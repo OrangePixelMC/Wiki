@@ -16,7 +16,7 @@
 ## 进服指南
 
 ### 遵守规则
-[遵守规则](/pages/join-guide/index.md)
+[遵守规则](pages/join-guide/index.md)
 
 ### Minecraft服务器地址信息
 

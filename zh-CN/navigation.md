@@ -25,15 +25,15 @@
 [更新日志]()
 
   * # 通用
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * [2021年]()
+  * [2022年](pages/update-log/universal/index.md)
   - - - -
   * # 大厅
   * [2022年](pages/update-loh/lobby/2022/index.md)
   - - - -
   * # 经典生存
-  * [2021年](/pages/update-log/ybsur/2021/index.md)
-  * [2022年](/pages/update-log/ybsur/2022/index.md)
+  * [2021年](pages/update-log/ybsur/2021/index.md)
+  * [2022年](pages/update-log/ybsur/2022/index.md)
 
 
 [语言]()
