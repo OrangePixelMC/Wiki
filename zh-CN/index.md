@@ -80,7 +80,7 @@ Hint!
 
 ## 游玩指南
 
-....
+* [经典生存服](pages/play-guide/ybsur/index.md)
 
 
 ## 规则

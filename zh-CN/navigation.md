@@ -23,6 +23,14 @@
 [Download](pages/download.md)
 -->
 
+[服务器规则]()
+
+  * # 主要规则
+  * [主要规则](pages/rules/index.md)
+  * [经典生存]()
+  - - - -
+  * [模组库]()
+
 [更新日志]()
 
   * # 通用
