@@ -50,6 +50,8 @@
   * [简体中文](/zh-CN/)
   * [English (United States)](/en-US/)
 
+[模组库](pages/modlibrary/index.md)
+
 [捐助](pages/donate.md)
 
 <!-- A more complex navigation example: ----------------------------------------
