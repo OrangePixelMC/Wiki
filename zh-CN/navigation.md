@@ -42,7 +42,7 @@
   - - - -
   * # 经典生存
   * [2021年](pages/update-log/ybsur/2021/index.md)
-  * [2022年](pages/update-log/ybsur/2022/index.md)
+  * [2022年](pages/update-log/ybsur/2022.md)
 
 
 [语言]()
