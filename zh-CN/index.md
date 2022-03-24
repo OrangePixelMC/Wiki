@@ -6,6 +6,8 @@
 ### 翻译进程
 [![Crowdin](https://badges.crowdin.net/orangepixel-network/localized.svg)](https://crowdin.com/project/orangepixel-network) 
 
+-> [参与帮助翻译](pages/translation-guide/index.md)
+
 ### 有关服务器运行时间的通知
 Hint!
 即日起，服务器暂时`不再`24小时运行，每日择时关服，并进行备份作业。
